@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-postgresql-prisma",
+  "version": "1.0.0",
+  "description": "Repo for Node.js (express) and postgresql database using prisma ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/nodejs-postgresql-prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/nodejs-postgresql-prisma/issues"
+  },
+  "homepage": "https://github.com/geshan/nodejs-postgresql-prisma#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
